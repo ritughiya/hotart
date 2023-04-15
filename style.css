@@ -1,0 +1,20 @@
+body{
+    margin:20px;
+}
+
+.imageBlock img {
+    width: 60vw;
+    margin: 10px 0 25px 0;
+}
+
+.introblock{
+    font-style: italic;
+}
+
+.block {
+    margin: 25px 0;
+}
+
+.block .q {
+    font-weight: bold;
+}
